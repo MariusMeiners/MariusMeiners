@@ -1,6 +1,7 @@
 ### Hi there my name is Marius 👋
 
-I'm a software developer mostly working with:
+I'm a software developer and economics student based in Dortmund, Germany  
+mostly working with:
 - javascript
 - react
 - react-native
