@@ -1,4 +1,4 @@
-### Hi there my name is Marius 👋
+### Hi there, my name is Marius 👋
 
 I'm a software developer and economics student based in Dortmund, Germany  
 mostly working with:
@@ -6,7 +6,7 @@ mostly working with:
 - react
 - react-native
 
-you can get in touch with my via email at MariusMeinersSoftware@gmail.com
+you can get in touch with my via email 📧 at MariusMeinersSoftware@gmail.com
 
 <!--
 **MariusMeiners/MariusMeiners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
