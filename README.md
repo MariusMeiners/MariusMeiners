@@ -6,7 +6,7 @@ mostly working with:
 - react
 - react-native
 
-you can get in touch with my via email 📧 at MariusMeinersSoftware@gmail.com
+you can get in touch with my via email 📧 at marius@meiners.dev
 
 <!--
 **MariusMeiners/MariusMeiners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
