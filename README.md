@@ -6,7 +6,8 @@ mostly working with:
 - typescript
 - react
 - react-native
+- golang
 
-currently learning golang 😊
+Intersted in R and Python 😊
 
 you can get in touch with my via email 📧 at marius@meiners.dev
