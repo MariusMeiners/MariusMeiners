@@ -1,7 +1,9 @@
 ### Hi there, my name is Marius 👋
 
-I'm a software developer and economics student based in Dortmund, Germany  
-mostly working with:
+I'm a software developer and finance profession based in Berlin, Germany currently working in M&A at PwC   
+mostly working with:  
+- typescript
+- javascript
 - golang
 - python
 
