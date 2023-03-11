@@ -1,7 +1,7 @@
 ### Hi there, my name is Marius 👋
 
 I'm a software developer and finance profession based in Berlin, Germany currently working in M&A at PwC   
-mostly working with:  
+Mostly working with:  
 - typescript
 - javascript
 - golang
